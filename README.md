@@ -14,5 +14,6 @@ the hyper paramater here is alpha:
 * alpha low - model overfits 
 * alpha high - model underfits
 
-#Facing error while loading IPYNB "Sorry, something went wrong. Reload?"
+# Facing error while loading IPYNB "Sorry, something went wrong. Reload?"
+
 please click the following link 
