@@ -11,6 +11,7 @@ Even here we can add regulizer L1 or L2
 L1 - Manhattan distance >> https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Lasso.html
 
 L2 - Euclidean distance >> https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Ridge.html
+
 so if it has a regulizer obivesly it will have a hyperparamater which give weight to regulizer.
 the hyper paramater here is alpha:
 * alpha low - model overfits 
