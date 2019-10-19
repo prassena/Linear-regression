@@ -7,6 +7,7 @@ Implimented SGD optimizer on own and compared the error what sklearn inbuilt SGD
 you can see the SGD built on my own have loss less than the sklearns inbuilt SGD's loss.
 
 Even here we can add regulizer L1 or L2 
+
 L1 - Manhattan distance >> https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Lasso.html
 
 L2 - Euclidean distance >> https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Ridge.html
